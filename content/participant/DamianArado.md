@@ -1,7 +1,7 @@
 ---
-Name: Mandar Wadnerkar
-institution: Acropolis Institute of Technology
-image: mandarw21.jpg
-quote: Never Say Never
-github: mandarw21
+Name: Mohammad Humayun Khan
+institution: Zakir Husain College of Engineering and Technology
+image: DamianArado.jpg
+quote: Never say die
+github: DamianArado
 ---
